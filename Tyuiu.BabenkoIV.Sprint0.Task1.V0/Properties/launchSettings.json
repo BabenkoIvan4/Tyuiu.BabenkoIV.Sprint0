@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "Tyuiu.BabenkoIV.Sprint0.Task1.V1": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    },
+    "Profile 2": {
+      "commandName": "Executable"
+    }
+  }
+}
